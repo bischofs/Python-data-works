@@ -1,0 +1,19 @@
+2015-01-27 15:10:58,233 - Evaluation_Log - INFO - Logger initialized
+2015-01-27 15:15:12,468 - Evaluation_Log - INFO - Logger initialized
+2015-01-27 15:15:12,469 - Evaluation_Log - INFO - Beginning Data Import
+2015-01-27 15:15:33,091 - Evaluation_Log - INFO - Data Import successfull
+2015-01-27 15:23:25,305 - Logger - INFO - Logger initialized
+2015-01-27 15:23:25,306 - IO - INFO - Beginning Data Import
+2015-01-27 15:24:09,788 - IO - INFO - Data Import successful
+2015-01-27 15:40:22,090 - Logger - INFO - Logger initialized
+2015-01-27 15:40:22,090 - IO - INFO - Beginning Data Import
+2015-01-27 15:41:35,308 - IO - INFO - Data Import successful
+2015-01-27 15:45:59,573 - Logger - INFO - Logger initialized
+2015-01-27 15:45:59,573 - IO - INFO - Beginning Data Import
+2015-01-27 15:46:01,727 - IO - INFO - Data Import successful - %{filename}
+2015-01-27 15:47:55,006 - Logger - INFO - Logger initialized
+2015-01-27 15:47:55,006 - IO - INFO - Beginning Data Import
+2015-01-27 15:51:31,680 - Logger - INFO - Logger initialized
+2015-01-27 15:51:31,680 - IO - INFO - Beginning Data Import
+2015-01-27 15:51:34,517 - IO - INFO - Data Import successful - ftp.csv
+2015-01-27 15:52:54,212 - IO - INFO - Checking Data Ranges
