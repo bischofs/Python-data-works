@@ -45,8 +45,8 @@ class DataIO:
         except Exception as e:
             self.logger.error(e)
                 
-            #        boolean_data = self.data.E_CO2D2 <  self.ranges.EngineOut_Max.CO2
-            #      if boolean_data.all()
+#            boolean_data = self.data.E_CO2D2 <  self.ranges.EngineOut_Max.CO2
+#                if boolean_data.all()
 
 # @name _check_units 
 # @desc Load json ranges and check imported data for out of range
@@ -96,5 +96,3 @@ class DataIO:
 
 
 
-
-class 1065

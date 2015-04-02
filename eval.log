@@ -86,3 +86,36 @@
 2015-01-29 14:31:21,229 - IO - INFO - Beginning Data Import
 2015-01-29 14:31:25,885 - IO - WARNING - Meta-Data missing in import file ftp.csv
 2015-01-29 14:31:25,963 - IO - INFO - Data Import successful - ftp.csv
+2015-01-30 10:27:12,004 - IO - INFO - Checking Data Ranges
+2015-01-30 16:53:14,122 - Logger - INFO - Logger initialized
+2015-01-30 16:53:14,122 - Logger - INFO - Logger initialized
+2015-01-30 16:53:14,123 - IO - INFO - Beginning Data Import
+2015-01-30 16:53:14,123 - IO - INFO - Beginning Data Import
+2015-02-16 16:26:04,504 - Logger - INFO - Logger initialized
+2015-02-16 16:26:04,505 - IO - INFO - Beginning Data Import
+2015-02-16 16:26:25,215 - IO - ERROR - 'utf-8' codec can't decode byte 0xb0 in position 0: invalid start byte
+2015-02-16 16:26:33,097 - IO - ERROR - 'utf-8' codec can't decode byte 0xb0 in position 0: invalid start byte
+2015-02-16 16:27:34,383 - IO - ERROR - 'utf-8' codec can't decode byte 0xb0 in position 0: invalid start byte
+2015-02-16 16:27:40,349 - IO - WARNING - Meta-Data missing in import file ftp.csv
+2015-02-16 16:27:40,527 - IO - INFO - Data Import successful - ftp.csv
+2015-02-16 16:43:18,820 - IO - ERROR - 'utf-8' codec can't decode byte 0xb0 in position 0: invalid start byte
+2015-02-16 16:55:45,499 - Logger - INFO - Logger initialized
+2015-02-16 16:55:45,500 - IO - INFO - Beginning Data Import
+2015-02-16 16:55:52,813 - IO - WARNING - Meta-Data missing in import file Logger.py
+2015-02-16 16:55:52,813 - IO - ERROR - Cannot find 'E_O2D2' in data
+2015-02-16 16:55:52,813 - IO - ERROR - Cannot find 'E_THCW' in data
+2015-02-16 16:55:52,813 - IO - ERROR - Cannot find 'E_NOXD' in data
+2015-02-16 16:55:52,814 - IO - ERROR - Cannot find 'E_COLD2' in data
+2015-02-16 16:55:52,814 - IO - ERROR - Cannot find 'E_CO2D' in data
+2015-02-16 16:55:52,814 - IO - ERROR - Cannot find 'E_CH4W2' in data
+2015-02-16 16:55:52,815 - IO - ERROR - Cannot find 'E_COHD' in data
+2015-02-16 16:55:52,815 - IO - ERROR - Cannot find 'E_THCW2' in data
+2015-02-16 16:55:52,815 - IO - ERROR - Cannot find 'E_NOD' in data
+2015-02-16 16:55:52,815 - IO - ERROR - Cannot find 'E_COHD2' in data
+2015-02-16 16:55:52,815 - IO - ERROR - Cannot find 'E_CH4W' in data
+2015-02-16 16:55:52,815 - IO - ERROR - Cannot find 'E_O2D' in data
+2015-02-16 16:55:52,816 - IO - ERROR - Cannot find 'E_NOD2' in data
+2015-02-16 16:55:52,816 - IO - ERROR - Cannot find 'E_COLD' in data
+2015-02-16 16:55:52,816 - IO - ERROR - Cannot find 'E_CO2D2' in data
+2015-02-16 16:55:52,816 - IO - ERROR - Cannot find 'E_NOXD2' in data
+2015-02-16 16:55:52,818 - IO - INFO - Data Import successful - Logger.py
